@@ -1,6 +1,7 @@
 # Git-ing Started with Git
-#### A fun project to learn git as part of the **DevmMarketer** community.
+#### A fun project to learn git as part of the **--devmMarketer--** community.
 
 ----
 
-Email me at [tony@evergrohk.com]
+Email me at [tla423@me.com]
+
